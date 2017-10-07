@@ -31,59 +31,59 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 
 **Primary Developer** (May 2013 - August 2017)
 
-- *Why?* My device had sporadic network connection failures on mobile data, and I wanted to track the errors and device and network conditions for better understanding of the connectivity issues.
-- *Downloads*: 68,000 as of October 2017.
-- *Features*: Collect connection test results and device attributes periodically. View the log in a WebView. Choose columns and filter values in the log view. Export the data to various formats (Csv, Html, Excel, Kml, Gnuplot, Database, Text summary). Send reports periodically by e-mail. Export and import log data. Speed test.
-- *Settings*: Light/dark theme, notification settings for when connection tests fail, performance tuning.
-- *Android Apis*: TelephonyManager Apis to retrieve information about signal strength, sim status and operator, network operator. WifiManager to retrieve WiFi connection information. NetworkStats to identify data-consuming apps. ContentProvider for persistence.
-- *Foss and "proprietary" flavors*: The Foss flavor excludes features requiring Google Play Services, and is published on F-Droid. The "proprietary" flavor is published on the Play Store.
-- *Libraries*: Support Library, Permissionsdispatcher, Google Play Services, Streamsupport, Retrolambda, JExcelApi, Apache commons-net, Licenses dialog
+* *Why?* My device had sporadic network connection failures on mobile data, and I wanted to track the errors and device and network conditions for better understanding of the connectivity issues.
+* *Downloads*: 68,000 as of October 2017.
+* *Features*: Collect connection test results and device attributes periodically. View the log in a WebView. Choose columns and filter values in the log view. Export the data to various formats (Csv, Html, Excel, Kml, Gnuplot, Database, Text summary). Send reports periodically by e-mail. Export and import log data. Speed test.
+* *Settings*: Light/dark theme, notification settings for when connection tests fail, performance tuning.
+* *Android Apis*: TelephonyManager Apis to retrieve information about signal strength, sim status and operator, network operator. WifiManager to retrieve WiFi connection information. NetworkStats to identify data-consuming apps. ContentProvider for persistence.
+* *Foss and "proprietary" flavors*: The Foss flavor excludes features requiring Google Play Services, and is published on F-Droid. The "proprietary" flavor is published on the Play Store.
+* *Libraries*: Support Library, Permissionsdispatcher, Google Play Services, Streamsupport, Retrolambda, JExcelApi, Apache commons-net, Licenses dialog
 * *Compatibility*: min: ICS 4.0, target: Oreo 8.
-- Available on F-Droid.
+* Available on F-Droid.
 
 ## French Revolutionary Calendar
 *[Library](https://github.com/caarmen/french-revolutionary-calendar), Android app - [GitHub](https://github.com/caarmen/FRCAndroidWidget), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frenchcalendar) and Wear 2.0 complications - [GitHub](https://github.com/caarmen/FRCComplication), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frc.complications) - Library, Android application, and Android Wear complications about the French Revolutionary Calendar.*
 
 **Primary Developer** (July 2011 - Current)
 
-- *Why?* I was intrigued by the concept of a new calendar.
-- *Downloads*: 7,500 as of October 2017.
-- *Languages*: Kotlin (the library) and Java (the Android app).
-- *Library Features*: An Api to convert between Gregorian and French Revolutionary Calendar dates, to convert between 24-hour time and decimal time, to lookup the "object of the day". (The French Revolutionary Calendar designated a plant, mineral, animal, or agricultural tool for each day of the year). Available in 7 languages: English, French, Spanish, Catalan, German, Italian, Basque. The Basque translations were contributed by an enthusiast, and the other translations are from Wikipedia pages.
-- *Android App Features*: Widget to display the current date on the device home screen. Daily notification. 2-way date converter between Gregorian and French dates.
-- *Android Wear Complications*: Provides complications for: the day of the week, the date, the object of the day, and decimal time.
-- *3rd party libraries*: Color picker preference, Font picker preference. No support library as the app supports Api level 3.
-- *Contributions from enthusiasts*: Basque translation (library and app), Italian translation (app).
-- Available on F-Droid.
-- Integration with Travis CI.
-- *Compatibility*: min: Cupcake 1.5, target: Oreo 8.
+* *Why?* I was intrigued by the concept of a new calendar.
+* *Downloads*: 7,500 as of October 2017.
+* *Languages*: Kotlin (the library) and Java (the Android app).
+* *Library Features*: An Api to convert between Gregorian and French Revolutionary Calendar dates, to convert between 24-hour time and decimal time, to lookup the "object of the day". (The French Revolutionary Calendar designated a plant, mineral, animal, or agricultural tool for each day of the year). Available in 7 languages: English, French, Spanish, Catalan, German, Italian, Basque. The Basque translations were contributed by an enthusiast, and the other translations are from Wikipedia pages.
+* *Android App Features*: Widget to display the current date on the device home screen. Daily notification. 2-way date converter between Gregorian and French dates.
+* *Android Wear Complications*: Provides complications for: the day of the week, the date, the object of the day, and decimal time.
+* *3rd party libraries*: Color picker preference, Font picker preference. No support library as the app supports Api level 3.
+* *Contributions from enthusiasts*: Basque translation (library and app), Italian translation (app).
+* Available on F-Droid.
+* Integration with Travis CI.
+* *Compatibility*: min: Cupcake 1.5, target: Oreo 8.
 
 ## Scrum Chatter
 *Android app - [GitHub](https://github.com/caarmen/scrumchatter), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.scrumchatter) - Track how long team members speak during a meeting.*
 
 **Primary Developer** (June 2013 - April 2017)
 
-- *Why?* Our daily meetings took too long with 8 to 10 team members. This was a humorous attempt to encourage team members to get to the point.
-- *Downloads*: Shamefully low.
-- *Features*: Create multiple teams. Create a meeting, manually tap on a team member when s/he speaks (no voice recognition). Export data to Excel. View stats in graphs inside the app: average speaking time per person, total speaking time per person, meeting duration over time, member speaking duration over time. Share graphs and text summaries of meetings.
-- *Android Apis*: ContentProvider for persistence.
-- *Libraries*: Support library, Retrolambda, HelloCharts, android-flowlayout, JExcelApi, RxJava2, RxAndroid, ben-manes, ContentProvider generator.
-- *Contributions from enthusiasts*: Japanese translation.
-- *Compatibility*: min: Gingerbread 2.3, target: Nougat 7.1
-- Available on F-Droid.
+* *Why?* Our daily meetings took too long with 8 to 10 team members. This was a humorous attempt to encourage team members to get to the point.
+* *Downloads*: Shamefully low.
+* *Features*: Create multiple teams. Create a meeting, manually tap on a team member when s/he speaks (no voice recognition). Export data to Excel. View stats in graphs inside the app: average speaking time per person, total speaking time per person, meeting duration over time, member speaking duration over time. Share graphs and text summaries of meetings.
+* *Android Apis*: ContentProvider for persistence.
+* *Libraries*: Support library, Retrolambda, HelloCharts, android-flowlayout, JExcelApi, RxJava2, RxAndroid, ben-manes, ContentProvider generator.
+* *Contributions from enthusiasts*: Japanese translation.
+* *Compatibility*: min: Gingerbread 2.3, target: Nougat 7.1
+* Available on F-Droid.
 
 ## Pálida Muerte
 *Android app - [GitHub](https://github.com/caarmen/PalidaMuerte), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.palidamuerte) - Selection of poems by Francisco Álvarez Hidalgo*
 
 **Sole Developer** (April 2014 - January 2015, July 2017)
 
-- *Why?* To distribute a collection of poems by my father in a new medium (he published them on a website)
-- *Downloads*: Shamefully low.
-- *Features*: Read poems in six "books". Mark poems as favorites. Search for poems by text. Share a poem. Print a poem.
-- *Note*: the poem text is not on GitHub as it is not "open source".
-- *3rd party libraries*: Support library, ben-manes, dexcount.
-- *Compatibility*: min: ICS 4.0, target: Nougat 7.1
-- *Android Apis*: ContentProvider, Search.
+* *Why?* To distribute a collection of poems by my father in a new medium (he published them on a website)
+* *Downloads*: Shamefully low.
+* *Features*: Read poems in six "books". Mark poems as favorites. Search for poems by text. Share a poem. Print a poem.
+* *Note*: the poem text is not on GitHub as it is not "open source".
+* *3rd party libraries*: Support library, ben-manes, dexcount.
+* *Compatibility*: min: ICS 4.0, target: Nougat 7.1
+* *Android Apis*: ContentProvider, Search.
 
 ## Nounours
 *Android app - [GitHub](https://github.com/caarmen/nounours-android), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.nounours), X11 screensaver - [GitHub](https://github.com/caarmen/nounours), [Download](http://rmen.ca/nounours-linux.html) - Interactive teddy bear in an application, live wallpaper, Android Wear 1.0 watchface, and X11 screensaver*
@@ -98,11 +98,11 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
     - Daydream: For supported devices, choose Nounours to appear when the device is plugged in and the screen locked.
     - Android wear 1.0 watchface. Choose Nounours or Bugdroid for the watchface character. In non-ambient mode, basic interaction by tapping on the character.
     - X11 screensaver: integration with the xscreensaver program on Linux.
-- *Languages*: Java, C
-- *Libraries*: [libnounours](https://github.com/caarmen/libnounours), Color picker preference
-- Available on F-Droid.
-- *Compatibility*: min: Cupcake 1.5, target: Nougat 7.1
-- *Trivia*: This app was selected as one of 10 "Prix du Public" finalists in the ["SFR Jeunes Talents Développeurs"](http://www.pointgphone.com/resultats-concours-android-sfr-jeunes-talents-developpeurs-2636/) competition in Paris on May 13, 2009.
+* *Languages*: Java, C
+* *Libraries*: [libnounours](https://github.com/caarmen/libnounours), Color picker preference
+* Available on F-Droid.
+* *Compatibility*: min: Cupcake 1.5, target: Nougat 7.1
+* *Trivia*: This app was selected as one of 10 "Prix du Public" finalists in the ["SFR Jeunes Talents Développeurs"](http://www.pointgphone.com/resultats-concours-android-sfr-jeunes-talents-developpeurs-2636/) competition in Paris on May 13, 2009.
 
 ## You're a Winner!
 *Android app - [GitHub](https://github.com/caarmen/youreawinner), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.youreawinner)*
