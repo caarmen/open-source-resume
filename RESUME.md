@@ -104,6 +104,17 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 - *Compatibility*: min: Cupcake 1.5, target: Nougat 7.1
 - *Trivia*: This app was selected as one of 10 "Prix du Public" finalists in the ["SFR Jeunes Talents Développeurs"](http://www.pointgphone.com/resultats-concours-android-sfr-jeunes-talents-developpeurs-2636/) competition in Paris on May 13, 2009.
 
+## You're a Winner!
+*Android app - [GitHub](https://github.com/caarmen/youreawinner), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.youreawinner)*
+
+**Troll Developer** (January 2013)
+
+* *Why?* Some users commented on a geography game I published on the Play Store (not open-source), saying it was too difficult. This app was a troll response to those users: "If you want a game that's easier to win, try You're a Winner!"
+* *Downloads*: Appropriately low
+* *Features*: Press on a red button to score random points and view a positive affirmation. Share your score.
+* *Compatibility*: min: Donut 1.6, target: ICS 4.0.4
+
+
 ## SunriseSunset
 *[Java library](https://github.com/caarmen/SunriseSunset) - Library to determine the sunrise, sunset, and twilight times for a given location on a given date*
 
