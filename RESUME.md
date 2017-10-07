@@ -9,7 +9,7 @@ c@rmen.ca - [http://rmen.ca](http://rmen.ca)
 Developer with over 15 years experience, 7 years of Android development, and 4 years of open-source projects published on GitHub. 
 
 ## Poet Assistant
-*[Android app](https://github.com/caarmen/poet-assistant) - Offline rhymer, thesaurus, dictionary, editor and playback for composing poetry.*
+*Android app - [GitHub](https://github.com/caarmen/poet-assistant), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.poetassistant) - Offline rhymer, thesaurus, dictionary, editor and playback for composing poetry.*
 
 **Sole Author** (February 2016 - Current)
 
@@ -27,7 +27,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
     - Debugging and testing libraries: Leak Canary, Espresso, Robolectric, Fest Reflection, Ben-manes.
 
 ## Network Monitor
-*[Android app](https://github.com/caarmen/network-monitor) - Diagnostic tool which periodically checks the device's network conditions and logs results and device attributes. Provides various reporting features.*
+*Android app - [GitHub](https://github.com/caarmen/network-monitor), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.networkmonitor) - Diagnostic tool which periodically checks the device's network conditions and logs results and device attributes. Provides various reporting features.*
 
 **Primary Author** (May 2013 - August 2017)
 
@@ -37,12 +37,12 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 - *Settings*: Light/dark theme, notification settings for when connection tests fail, performance tuning.
 - *Android Apis*: TelephonyManager Apis to retrieve information about signal strength, sim status and operator, network operator. WifiManager to retrieve WiFi connection information. NetworkStats to identify data-consuming apps. ContentProvider for persistence.
 - *Foss and "proprietary" flavors*: The Foss flavor excludes features requiring Google Play Services, and is published on F-Droid. The "proprietary" flavor is published on the Play Store.
-- *3rd party libraries*: Support Library, Permissionsdispatcher, Google Play Services, Streamsupport, Retrolambda, JExcelApi, Apache commons-net, Licenses dialog
+- *Libraries*: Support Library, Permissionsdispatcher, Google Play Services, Streamsupport, Retrolambda, JExcelApi, Apache commons-net, Licenses dialog
 * *Compatibility*: min: ICS 4.0, target: Oreo 8.
 - Available on F-Droid.
 
 ## French Revolutionary Calendar
-*[Library](https://github.com/caarmen/french-revolutionary-calendar), [Android app](https://github.com/caarmen/FRCAndroidWidget) and [Wear 2.0 complications](https://github.com/caarmen/FRCComplication) - Library, Android application, and Android Wear complications about the French Revolutionary Calendar.*
+*[Library](https://github.com/caarmen/french-revolutionary-calendar), Android app - [GitHub](https://github.com/caarmen/FRCAndroidWidget), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frenchcalendar) and Wear 2.0 complications - [GitHub](https://github.com/caarmen/FRCComplication), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frc.complications) - Library, Android application, and Android Wear complications about the French Revolutionary Calendar.*
 
 **Primary Author** (July 2011 - Current)
 
@@ -57,10 +57,9 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 - Available on F-Droid.
 - Integration with Travis CI.
 - *Compatibility*: min: Cupcake 1.5, target: Oreo 8.
-- Oreo compliant.
 
 ## Scrum Chatter
-*[Android app](https://github.com/caarmen/scrumchatter) - Track how long team members speak during a meeting.*
+*Android app - [GitHub](https://github.com/caarmen/scrumchatter), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.scrumchatter) - Track how long team members speak during a meeting.*
 
 **Primary Author** (June 2013 - April 2017)
 
@@ -68,13 +67,13 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 - *Downloads*: Shamefully low.
 - *Features*: Create multiple teams. Create a meeting, manually tap on a team member when s/he speaks (no voice recognition). Export data to Excel. View stats in graphs inside the app: average speaking time per person, total speaking time per person, meeting duration over time, member speaking duration over time. Share graphs and text summaries of meetings.
 - *Android Apis*: ContentProvider for persistence.
-- *3rd party libraries*: Support library, Retrolambda, HelloCharts, android-flowlayout, JExcelApi, RxJava2, RxAndroid, ben-manes, ContentProvider generator.
+- *Libraries*: Support library, Retrolambda, HelloCharts, android-flowlayout, JExcelApi, RxJava2, RxAndroid, ben-manes, ContentProvider generator.
 - *Contributions from enthusiasts*: Japanese translation.
 - *Compatibility*: min: Gingerbread 2.3, target: Nougat 7.1
 - Available on F-Droid.
 
 ## Pálida Muerte
-*[Android app](https://github.com/caarmen/PalidaMuerte) - Selection of poems by Francisco Álvarez Hidalgo*
+*Android app - [GitHub](https://github.com/caarmen/PalidaMuerte), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.palidamuerte) - Selection of poems by Francisco Álvarez Hidalgo*
 
 **Sole Developer** (April 2014 - January 2015, July 2017)
 
@@ -87,7 +86,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 - *Android Apis*: ContentProvider, Search.
 
 ## Nounours
-*[Android app](https://github.com/caarmen/nounours-android), [X11 screensaver](https://github.com/caarmen/nounours) - Interactive teddy bear in an application, live wallpaper, Android Wear 1.0 watchface, and X11 screensaver*
+*Android app - [GitHub](https://github.com/caarmen/nounours-android), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.nounours), X11 screensaver - [GitHub](https://github.com/caarmen/nounours), [Download](http://rmen.ca/nounours-linux.html) - Interactive teddy bear in an application, live wallpaper, Android Wear 1.0 watchface, and X11 screensaver*
 
 **Primary Developer** (May 2009 - February 2017)
 
