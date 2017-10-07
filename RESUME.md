@@ -11,7 +11,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 ## Poet Assistant
 *Android app - [GitHub](https://github.com/caarmen/poet-assistant), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.poetassistant) - Offline rhymer, thesaurus, dictionary, editor and playback for composing poetry.*
 
-**Sole Author** (February 2016 - Current)
+**Sole Developer** (February 2016 - Current)
 
 * *Why?* One night, during a bout of insomnia, I tried to pass the time by composing a poem on my mobile phone. Frustrated by having to constantly switch between a text editor, and multiple websites in a browser for the rhymer, thesaurus and dictionary, I decided to create an application integrating these features.
 * *Downloads*: 114,000 as of October 2017.
@@ -29,7 +29,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 ## Network Monitor
 *Android app - [GitHub](https://github.com/caarmen/network-monitor), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.networkmonitor) - Diagnostic tool which periodically checks the device's network conditions and logs results and device attributes. Provides various reporting features.*
 
-**Primary Author** (May 2013 - August 2017)
+**Primary Developer** (May 2013 - August 2017)
 
 - *Why?* My device had sporadic network connection failures on mobile data, and I wanted to track the errors and device and network conditions for better understanding of the connectivity issues.
 - *Downloads*: 68,000 as of October 2017.
@@ -44,7 +44,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 ## French Revolutionary Calendar
 *[Library](https://github.com/caarmen/french-revolutionary-calendar), Android app - [GitHub](https://github.com/caarmen/FRCAndroidWidget), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frenchcalendar) and Wear 2.0 complications - [GitHub](https://github.com/caarmen/FRCComplication), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.frc.complications) - Library, Android application, and Android Wear complications about the French Revolutionary Calendar.*
 
-**Primary Author** (July 2011 - Current)
+**Primary Developer** (July 2011 - Current)
 
 - *Why?* I was intrigued by the concept of a new calendar.
 - *Downloads*: 7,500 as of October 2017.
@@ -61,7 +61,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 ## Scrum Chatter
 *Android app - [GitHub](https://github.com/caarmen/scrumchatter), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.scrumchatter) - Track how long team members speak during a meeting.*
 
-**Primary Author** (June 2013 - April 2017)
+**Primary Developer** (June 2013 - April 2017)
 
 - *Why?* Our daily meetings took too long with 8 to 10 team members. This was a humorous attempt to encourage team members to get to the point.
 - *Downloads*: Shamefully low.
