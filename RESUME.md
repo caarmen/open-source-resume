@@ -107,7 +107,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 ## You're a Winner!
 *Android app - [GitHub](https://github.com/caarmen/youreawinner), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.youreawinner)*
 
-**Troll Developer** (January 2013)
+**Troll Developer** (January 2013, October 2017)
 
 * *Why?* Some users commented on a geography game I published on the Play Store (not open-source), saying it was too difficult. This app was a troll response to those users: "If you want a game that's easier to win, try You're a Winner!"
 * *Downloads*: Appropriately low
