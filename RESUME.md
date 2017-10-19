@@ -48,7 +48,7 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 
 * *Why?* I was intrigued by the concept of a new calendar.
 * *Downloads*: 7,500 as of October 2017.
-* *Languages*: Kotlin (the library) and Java (the Android app).
+* *Language*: Kotlin (the library and app)
 * *Library Features*: An Api to convert between Gregorian and French Revolutionary Calendar dates, to convert between 24-hour time and decimal time, to lookup the "object of the day". (The French Revolutionary Calendar designated a plant, mineral, animal, or agricultural tool for each day of the year). Available in 7 languages: English, French, Spanish, Catalan, German, Italian, Basque. The Basque translations were contributed by an enthusiast, and the other translations are from Wikipedia pages.
 * *Android App Features*: Widget to display the current date on the device home screen. Daily notification. 2-way date converter between Gregorian and French dates.
 * *Android Wear Complications*: Provides complications for: the day of the week, the date, the object of the day, and decimal time.
