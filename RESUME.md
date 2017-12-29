@@ -20,11 +20,12 @@ Developer with over 15 years experience, 7 years of Android development, and 4 y
 * *Data sources*: the rhymer data is from the [Carnegie Mellon Pronouncing Dictionary](http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/). The thesaurus is from the [WordNet 2.0 thesaurus](https://github.com/LibreOffice/dictionaries/tree/master/en). The definitions are from the [WordNet 3.0 dictionary](http://wordnet.princeton.edu/wordnet/download/current-version/). Some features rely on word frequencies, using the [Google Ngram Viewer](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html).
 * *Android Apis*: Text-to-speech, search by voice, printing, Storage Access Framework, Data Binding, Day/Night theming, lookup from external apps, custom search suggestions.
 * Available on F-Droid.
-* *Compatibility*: min: ICS 4.0.3, target: Oreo 8.
+* *Compatibility*: min: ICS 4.0.3, target: Oreo 8.1.
 * *Libraries*:
     - Personal application libraries: [Rhymer](https://github.com/caarmen/rhymer), [Porter Stemmer](https://github.com/caarmen/porter-stemmer).
-    - 3rd party application libraries: Support Library, Retrolambda, EventBus, Dagger, RxJava2, Prefs, GreenDao (later removed)
+    - 3rd party application libraries: Support Library, Retrolambda, EventBus, Dagger, Kotlin coroutines, Prefs, GreenDao (later removed)
     - Debugging and testing libraries: Leak Canary, Espresso, Robolectric, Fest Reflection, Ben-manes.
+* *Language*: App: Kotlin, tests: Java/Kotlin. Migrated the app to Kotlin in December 2017, about one week full time. Migration was done manually, not using the converter, to become familiar with Kotlin.
 
 ## Network Monitor
 *Android app - [GitHub](https://github.com/caarmen/network-monitor), [Play Store](https://play.google.com/store/apps/details?id=ca.rmen.android.networkmonitor) - Diagnostic tool which periodically checks the device's network conditions and logs results and device attributes. Provides various reporting features.*
